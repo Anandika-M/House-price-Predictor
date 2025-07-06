@@ -5,7 +5,7 @@ library(GGally)
 library(caret)
 
 # Load the housing dataset
-housing_data <- read.csv("C:/Users/Welcome/Downloads/Housing.csv")
+housing_data <- read.csv("Housing.csv")
 
 summary(housing_data)
 
